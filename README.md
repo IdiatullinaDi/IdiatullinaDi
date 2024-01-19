@@ -9,7 +9,9 @@
 I'm looking for a job as a data analyst.
 
 Toolset:
-Python (pandas, numpy, matplotlib, seaborn, plotly), SQL, Tableau.
+- Python (pandas, numpy, matplotlib, seaborn, plotly)
+- SQL
+- Tableau.
 
 ### Connect with me:
 - email - idiatullinadi@gmail.com
